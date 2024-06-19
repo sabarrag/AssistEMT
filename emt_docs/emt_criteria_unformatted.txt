@@ -1,0 +1,52 @@
+Possible
+Points
+
+Takes or verbalizes appropriate PPE precautions 1
+SCENE SIZE-UP
+Determines the scene/situation is safe 1
+Determines the mechanism of injury/nature of illness 1
+Requests additional EMS assistance if necessary 1
+Considers stabilization of the spine 1
+PRIMARY SURVEY/RESUSCITATION
+Determines responsiveness/level of consciousness (AVPU) 1
+Determines chief complaint/apparent life-threats 1
+Assesses airway and breathing
+-Assessment (1 point) -Assures adequate ventilation (1 point) -Initiates appropriate oxygen therapy (1 point) 3
+Assesses circulation
+-Assesses/controls major bleeding (1 point) -Checks pulse (1 point) 3
+-Assesses skin [either skin color, temperature or condition] (1 point)
+Identifies patient priority and makes treatment/transport decision 1
+HISTORY TAKING
+History of the present illness
+-Onset (1 point) -Quality (1 point) -Severity (1 point)
+-Provocation (1 point) -Radiation (1 point) -Time (1 point) 8
+-Clarifying questions of associated signs and symptoms related to OPQRST (2 points)
+Past medical history
+-Allergies (1 point) -Past pertinent history (1 point) -Events leading to present illness (1 point) 5
+-Medications (1 point) -Last oral intake (1 point)
+SECONDARY ASSESSMENT
+Assesses affected body part/system
+-Cardiovascular -Neurological -Integumentary -Reproductive 5
+-Pulmonary -Musculoskeletal -GI/GU -Psychological/Social
+VITAL SIGNS
+-Blood pressure (1 point) -Pulse (1 point) -Respiratory rate and quality (1 point each) 4
+States field impression of patient 1
+Interventions [verbalizes proper interventions/treatment] 1
+REASSESSMENT
+Demonstrates how and when to reassess the patient to determine changes in condition 1
+Provides accurate verbal report to arriving EMS unit 1
+Actual Time Ended: ___________ TOTAL 40
+CRITICAL CRITERIA:
+____ Failure to initiate or call for transport of the patient within 15 minute time limit
+____ Failure to take or verbalize appropriate PPE precautions
+____ Failure to determine scene safety before approaching patient
+____ Failure to voice and ultimately provide appropriate oxygen therapy
+____ Failure to assess/provide adequate ventilation
+____ Failure to find or appropriately manage problems associated with airway, breathing, hemorrhage or shock
+____ Failure to differentiate patient’s need for immediate transportation versus continued assessment or treatment at the scene
+____ Performs secondary examination before assessing and treating threats to airway, breathing and circulation
+____ Orders a dangerous or inappropriate intervention
+____ Failure to provide accurate report to arriving EMS unit
+____ Failure to manage the patient as a competent EMR
+____ Exhibits unacceptable affect with patient or other personnel
+____ Uses or orders a dangerous or inappropriate intervention

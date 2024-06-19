@@ -1,0 +1,378 @@
+OXYGEN ADMINISTRATION BY NON-REBREATHER MASK
+Crack valve on the oxygen tank to clear any debris
+    Rotate the valve to open. Make sure to face away from partner and patient. You will hear a hiss upon opening the valve. 
+    Close the valve by rotating back into the original position.
+Assembles the regulator to the oxygen tank
+    Place regulator on and tighten the end to screw  into place.
+Opens the oxygen tank valve
+Checks oxygen tank pressure
+    Should be between 1500 and 2000 psi. Switch out the tank if pressure is below 1000 psi
+Checks for leaks
+    Lift up to ear to hear for hissing sound.
+Attaches tube of non-rebreather mask to correct port of regulator
+Turns on oxygen flow to prefill reservoir bag
+    Place finger on inspiratory valve to prefill reservoir bag
+Adjusts regulator to assure oxygen flow rate of at least 10 L/minute
+Attaches mask to patient’s face and adjusts to fit snugly
+    Pull strings to adjust tightness
+
+BVM VENTILATION OF AN APNEIC ADULT PATIENT
+Check responsiveness
+    Check if alert to verbal: “Hi Sir/Ma’am? What’s going on?”
+    If no response, check if alert to pain: Trapezius pinch
+    If unresponsive, call for ALS assistance and ask partner to retrieve an AED 
+Checks breathing and pulse simultaneously (for less than ten seconds)
+    Place fingers on carotid artery to check for pulse
+    Look for chest rise and fall with adequate depth to check for breathing
+    If the patient has a pulse but is not breathing with adequate depth proceed with treatment
+Simultaneously tilt the head and lift the chin (head-tilt chin-lift maneuver) to open the airway
+If the airway is full of secretions and vomitus prepare rigid suction catheter
+    Turns on power to suction device
+    Inserts rigid suction catheter without applying suction
+Suctions the mouth and oropharynx
+    Move catheter in a circular motion for less than 15 seconds
+    Cather should not go deeper than the base of the tongue and mouth
+Once the mouth is clear prepare an oropharyngeal airway (OPA)
+Measure the OPA to span the length between the front teeth and angle of the jaw
+Inserts oropharyngeal airway
+Once the inside mouth the rotate 180 degrees
+If no gag reflex is present and the patient accepts the OPA then proceed with treatment
+Ventilates the patient immediately using a BVM device unattached to oxygen
+    Secure the mask to the face of the patient by applying pressure on the bridge of the nose and bottom of the chin
+    First ventilation should be delivered within 30 seconds of completion of suctioning the mount and oropharynx
+    Squeeze the self-inflating bag once every five seconds
+Check to see if ventilation is being properly performed for two minutes by looking for adequate rise and fall of chest
+If ventilation is properly performed, re-check carotid pulse for less than 10 seconds 
+Attaches the tube to to the port of the regulator on the oxygen tank 
+    Set airflow to 15 L/minute
+Check to see if ventilation is being properly performed
+    Check for adequate rise and fall of chest
+    Check for adequate breathing rate (10 – 12/minute; 1 ventilation every 5 – 6 seconds)
+
+BLEEDING CONTROL/SHOCK MANAGEMENT
+Apply direct pressure to the wound 
+    Press the fingers of the hand onto the site of bleeding
+If the wound continues to bleed, apply tourniquet 
+    Secure strap above the site of bleeding with velcro and tighten by twisting rod until bleeding stops
+If the patient is exhibiting signs and symptoms of hypoperfusion
+    Position the patient supine
+    Administers high concentration oxygen 
+    Initiates steps to prevent heat loss from the patient (providing heat blanket)
+    Indicate the need for immediate transportation 
+
+VITALS - GLUCOSE MONITOR
+Insert test strip into glucometer to make sure it is functioning
+Prepare bandage - unpeel one side of bandage and stick to glove
+Clean the patient’s finger with a prep swab
+    Wait a few seconds for the finger to dry
+Prepare lancet
+    Twist and remove the top portion of the lancet
+Verbalize to the patient that they will feel a prick
+    Push on the top of the lancet to deliver the needle prick
+Squeeze on the patient’s finger until an an adequate amount of blood pools
+    Touch the test strip to the droplet of blood
+Immediately apply bandage to patient’s finger
+Verbalize Blood Glucose Level calculated from monitor
+
+VITALS - BLOOD PRESSURE
+Wrap the blood pressure cuff around the upper arm of the patient
+    Keep the cuff snug against the patient’s skin
+Palpate the brachial artery to feel for a strong pulse and place the head of the stethoscope over this location
+    It should be right below the blood pressure cuff
+Begin listening with stethoscope and squeeze the inflation bulb until there is no sounds of a pulse anymore (final should be 20-40 mmHg above the patient’s normal systolic BP)
+    The gauge should read around 160 - 180 mmHg
+Slowly release pressure from inflation bulb (not faster than 2-3 mmHg per second) and watch the gauge
+Systolic reading
+    The pressure at which you first hear a thump again
+    Continue releasing pressure
+Diastolic reading
+    The pressure at which the thump stops
+Verbalize Blood Pressure levels calculated
+
+VITALS - PULSE
+Using your index and middle fingers, lightly press on the inside of the opposite wrist below the base of the thumb
+Using a 10 second timer/watch, count the number of beats you feel. 
+Multiply by six– the result is your resting heart rate
+
+VITALS - RESPIRATORY RATE 
+First look at the patient pupil without additional light to determine size of pupil.
+Use a pen light to shine light from the far corner of the eye to the bridge of the nose.
+    Note – do not use a super-bright flashlight as the additional light can be painful for your patient.
+As you shine the light, look for changes in pupil size in both eyes. Eye response is connected and both pupils should respond to light in one eye.
+Pupil reactive rate of change is also noted.
+Perform this assessment in each eye.
+
+TYPES OF LUNG SOUNDS 
+Wheezing: The wheezing sound can be heard during inhalation or exhalation and it’s caused by a narrowing of the airways. Wheezing lung sounds are continuous and can be heard throughout the lungs. They have a musical quality and are often caused by bronchospasm.
+Conditions likely to produce a wheezing sound:
+• Asthma
+• Bronchitis
+• Allergic reaction
+• Inhaling a foreign object into the lungs
+• COPD
+• Pneumonia
+• Smoking
+• Heart failure
+
+Rhonchi: Rhonchi breath sounds are a lower pitched wheezing sound. Rhonchi sounds are continuous and can sound like snoring or even have a moaning quality. They are caused by air passing through airways that are narrowed due to secretions or mucous. An important feature of rhonchi breath sounds is that they will often clear up after the patient coughs or is suctioned. They can be heard during inspiration and expiration.
+Conditions likely to produce rhonchi sounds:
+• Chronic bronchitis
+• Pneumonia
+• Cystic fibrosis
+
+Stridor: Stridor lung sounds are frequently heard in children and are caused by something blocking the larynx. It is a high pitched musical sound heard on inspiration that’s caused by air moving through a partially obstructed airway. The stridor sound can be mistaken for wheezing, but there is a simple way to check whether the patient is experiencing an inspiratory wheeze or stridor. EMTs can use their stethoscope and gently listen over the patient’s throat (trachea) for the stridor sound to get louder. If the breath sound increases at the throat, the patient has stridor breathing and not an inspiratory wheeze.
+Conditions likely to produce stridor breathing:
+• Croup (laryngotracheobronchitis)
+• Foreign body airway obstruction
+• Laryngospasm
+• Swelling in throat
+• Epiglottitis
+
+Crackles: Crackles lung sounds can be categorized both by the sound quality and when they are heard in the respiratory cycle. Crackles can occur on inspiration or expiration and each type can indicate a different disease process.
+
+    Coarse Crackles: Coarse crackles are a crackling sound when breathing that is usually caused by mucous in the airways. Course crackle lung sounds tend to be a loud, low pitched bubbling sound. They can be heard anywhere in the anterior or posterior lung fields and it’s also possible for coarse crackles to be heard on one side of the chest, in both lungs, or in different spots throughout the lungs.
+    Conditions likely to produce coarse crackles in lungs:
+    • COPD
+    • Bronchiectasis
+    • Lung Abscess
+    • TB lung cavities
+    • Pneumonia
+
+    Fine Crackles:  Fine crackles lung sounds are discontinuous, high pitched popping sounds. As air rapidly opens the collapsed air sacs in the lungs, it can produce a popping or crackling noise. Unlike coarse crackles, fine crackles will usually start at the base of the lungs where fluid congregates. As fluid fills the lungs, fine crackles lung sounds will be heard higher up in the lungs. Fine crackles in lungs won’t clear when the patient coughs.
+    Conditions likely to produce fine crackles in lungs:
+    • Pulmonary edema
+    • Bronchiolitis
+    • Cystic fibrosis
+    • Consolidation
+
+CARDIAC ARREST MANAGEMENT / AED
+Check responsiveness
+    Check if alert to verbal: “Hi Sir/Ma’am? What’s going on?”
+    If no response, check if alert to pain: Trapezius pinch
+    Checks breathing and pulse simultaneously (for no more than 10 seconds)
+    If unresponsive (apneic and pulseless), call for ALS assistance and ask partner to retrieve an AED 
+Immediately begins chest compressions and perform 2 minutes of high-quality, 1-rescuer adult CPR
+    Place the heel of one hand on the lower half of the breastbone. Place the heel of the other hand on top of the first hand and interlink fingers.
+    Make sure there is adequate depth: 2 to 2.4 inches (5 - 6 cm)
+    Make sure compressions are performed at the correct rate: 100 to 120 compressions
+    Allows the chest to recoil completely
+After 30 compressions, simultaneously tilt the head and lift the chin (head-tilt chin-lift maneuver) to open the airway
+    Use the bag-valve mask to deliver 2 breaths
+    Ventilations are delivered at a rate of 1 breath every 6 seconds
+Continue alternating between 30 compressions followed by 2 ventilation breaths
+After 2 minutes (5 cycles), assess the patient and have the second EMT resumes compressions while you set up the AED device
+Turns on power to AED
+Remove all clothing that covers the chest and correctly attaches AED pads to the patient (following the pictures on the pads)
+Stops CPR and ensures all individuals are clear of the patient by loudly yelling “CLEAR” during rhythm analysis
+    If a shock is not needed, resume CPR
+Ensures that all individuals are clear of the patient by loudly yelling “CLEAR” and press the “Shock” button on the AED
+Immediately resume cycle of chest compressions and ventilations once shock is delivered
+
+NORMAL RANGES FOR VITALS
+Pulse:
+    Description: Regular, Irregular, Strong and Weak 
+    Adult: 60 to 100 beats per minute Mild hypoxia 91 to 94\% Give oxygen
+    Children (1 to 8 years): 80 to 100 
+    Infants (1 to 12 months): 100 to 120 
+    Neonates (1 to 28 days): 120 to 160
+
+O2 level: 
+    95 to 100\%: Normal, No oxygen needed or placablee
+    91 to 94\%: Mild hypoxia, Give oxygen 
+    86 to 90\%: Moderate hypoxia, Give 100% Oxygen 
+    <=85\%: Severe hypoxia, Give 100% oxygen with positive pressure
+
+Blood Pressure:
+    Adult:  Systolic - 90 to 140 mmHg & Diastolic - 60 to 90 mmHg
+    Children (1 to 8 years): Systolic - 80 to 110 mmHg
+    Infants (1 to 12 months): Systolic - 70 to 95 mmHg
+    Neonates (1 to 28 days): Systolic - >60 mmHg
+
+Respirations:
+    Description: Normal, shallow, labored, noisy, kissmaul
+    Adult (normal): 12 to 20 breaths per minute
+    Children (1 to 8 years): 15 to 30 breaths per minute
+    Infants (1 to 12 months): 25 to 50 breaths per minute
+    Neonates (1 to 28 days): 40 to 60 breaths per minute
+    
+Non-Contact Tasks: 
+    Respiratory Rate, Skin Signs, Pupils
+Simple Contact Tasks: 
+    Bleeding Control, Glucose Monitor, Blood Pressure, Pulse, Lung Sounds 
+Complex Contact Tasks  
+    Cardiac Arrest Management/AED, BVM Ventilation, Oxygen Administration
+
+TRIAGE
+Emergency first clinical responders would follow the clinical algorithm to evaluate each patient and assign a triage category and color based on various clinical parameters. The information would be noted on the triage tag attached to the mass casualty victim.
+Rescuers following after the triage officer would view the color and text of the triage tag and take appropriate action.
+Clinical parameters used to evaluate patients include:
+    Ability to walk
+    Presence or absence of spontaneous breathing
+    Respiratory rate greater or less than 30 per minute
+    Perfusion assessment using either the palpable radial pulse or visible capillary refill rate
+    Mental status as assessed by ability to obey commands.
+4 conventional triage categories:
+Minor: Green Triage Tag Color
+    Victim with relatively minor injuries
+    Status unlikely to deteriorate over days
+    May be able to assist in own care: also known as "walking wounded"
+Delayed: Yellow Triage Tag Color
+    Victim's transport can be delayed
+    Includes serious and potentially life-threatening injuries, but status not expected to deteriorate significantly over several hours
+Immediate: Red Triage Tag Color
+    Victim can be helped by immediate intervention and transport
+    Requires medical attention within minutes for survival (up to 60 minutes)
+    Includes compromise to patient's airway, breathing, and circulation (the ABC's of initial resuscitation)
+Expectant: Black Triage Tag Color
+    Victim unlikely to survive given severity of injuries, level of available care, or both
+    Palliative care and pain relief should be provided
+
+DECISION TREE: SCENE SIZE-UP
+BSI = Body substance isolation
+    Wear gloves and masks
+Asses ENAMES
+    Environmental hazards: Are there any environmental hazards?
+    Number of patients: How many patients are involved?
+    Additional Services: Are additional ALS services necessary?
+    MOI/NOI: What is the mechanism of injury or nature of illness?
+    Extrication: Is there any patient extrication necessary? Does anything need to be moved out of the way to access patient?
+    Stabilization: Is there any spine stabilization necessary?
+
+DECISION TREE: ALERT/ORIENTED x 4
+Alert/Oriented to Person: “Hi Sir/Ma’am? My name is ____ and I’m going to take care of you today. What’s your name?”
+Alert/Oriented to Place: “Do you know where you are right now?”
+Alert/Oriented to Time: “Do you know what day of the week it is today”
+Alert/Oriented to Event: “Do you know what happened leading up to this?”
+
+DECISION TREE: AVPU (ALERT, VERBAL, PAIN, UNRESPONSIVE)
+Alert to verbal: “Hi Sir/Ma’am? My name is ____ and I’m going to take care of you today. What’s going on?”
+    If no response, Alert to pain: Trapezius pinch
+        If no response: the patient is unresponsive and the chief complaint is altered consciousness 
+ 
+DECISION TREE: TRANSPORT DECISION
+Code 1
+    Non-Emergency Transport
+    No lights or sirens
+Code 2
+    Semi-life threatening response
+    Requiring expedited transport (but still follow standard traffic rules)
+    Typical inter-facility transport
+    Lights but no sirens
+Code 3
+    Life-threatening response with lights and sirens
+    Unstable Patient 
+
+DECISION TREE: OPQRST
+Onset: What were you doing when this began?
+Provocation: Does anything make the pain better or worse?
+Quality: What does the pain feel like? Dull, aching, crushing stabbing, shooting?
+Radiation: Does the pain radiate or constant?
+Severity: How would you describe the pain on a scale of 1-10?
+Time: How long have you had this pain for?
+
+DECISION TREE: PAST MEDICAL HISTORY (SAMPLE)
+Signs and Symptoms: Have you had any symptoms/signs leading up to this?
+Allergies: Do you have any food or medication allergies?
+Medication: Are you taking any medication right now?
+Past Medical History: Is there any relevant medical history or events?
+Last Oral Intake: When was the last time you ate?
+Event: What events lead up to this?
+
+DECISION TREE: SECONDARY ASSESSMENT (RESPIRATORY)
+PASTE
+    Provocation/Progression: What were you doing when it started? How long has this been going on? How has it changed over time?
+    Associated Chest Pain (rule out cardiac involvement): Take a deep full breath and see if you have chest pain
+    Pain with breathing should increase your level of suspicion that the patient may be having a cardiac event or a pulmonary embolism
+    Sputum: What are you spewing up?
+    Talking: Are they having difficulties talking? Can they speak in complete sentences?
+    Exercise: What is their exercise level today compared to normally?
+Additional Vitals: SPO2, Lung Sounds
+Treatments/Medication: Oxygen Therapy
+
+DECISION TREE: SECONDARY ASSESSMENT (CARDIAC)
+Take a deep full breath and see if you have chest pain
+    Pain with breathing should increase your level of suspicion that the patient may be having a cardiac event or a pulmonary embolism
+Treatments/Medication: Aspirin (324mg), Nitroglycerine (0.4mg)  
+
+DECISION TREE: SECONDARY ASSESSMENT (NEUROLOGIC)
+AEIOUTIPS
+    Alcohol: Any odor on their breath? Environment suggests alcohol consumption?
+    Epilepsy: Is there any oral trauma, incontinence, or diaphoresis indicating epilepsy?
+    Insulin: Check blood glucose through monitor?
+    Overdose/Opiates: Constricted pupils that indicate opiate use or overdose? 
+    Underdose/uremia: are they compliant to medication? Is there a uremic frost on their skin?
+    Trauma/Temperature: check their temperature for an infection? Any unreported traumatic events?
+    Infection: is there anything linked with temp and high respiration rate?
+    Psychosis/Poisons: Any behavioral abnormalities that indicate psychosis or poison?
+    Shock/Sepsis/Syncope/Stroke: Any behavioral abnormalities that indicate shock/sepsis/syncope/stroke?
+FAST (stroke evaluation)
+    Facial Droop
+    Arm Drift
+    Speech irregularities
+    Time of Onset
+Treatments/Medications: Oxygen (if hypoxic), Glucose (if hypoglycemic), Blanket (if hypothermic)
+
+DECISION TREE: SECONDARY ASSESSMENT (GI)
+Asses DRGERM through abdominal palpations ending with affected quadrant
+    Distention
+    Rigidity
+    Guarding
+    Evisceration
+    Rebound tenderness
+    Masses.
+Last bowel movement
+    Bowel movement indicates an upper GI issue
+    Is there blood in the stool?
+Is there any nausea and vomiting?
+    Is there blood in the vomit?
+
+DECISION TREE: SECONDARY ASSESSMENT (ENDOCRINE)
+Any recent stress or illness? 
+Do you have diabetes?
+When was the last time you took insulin?
+Are you dizzy? 
+Are you feeling excessive thirst or urination?
+Have you had any recent trauma or clotting disorders?
+Additional Vitals: Blood pressure, Blood Glucose Level
+Treatments/Medications: Oral Glucose (if hypoglycemic)
+
+DECISION TREE: SECONDARY ASSESSMENT (IMMUNOLOGIC)
+Look for immune response or allergens.
+Determine whether the patient is undergoing an allergic reaction or anaphylaxis
+Treatments/Medications: Epinephrine (.3mg Adult, .15 Child) 
+
+DECISION TREE: SECONDARY ASSESSMENT (TOXICOLOGICAL)
+If overdose, what did they take and how much?
+Which route? If Oral, consider using Activated Charcoal
+Treatments/Medications: Naloxone (1-2mg for Opioid Overdose), Activated Charcoal (1g/kg body weight for ingested poisons - not alcohol, petroleum products, or acids and bases)
+
+DECISION TREE: SECONDARY ASSESSMENT (PSYCHIATRIC)
+Talk the patient down
+Consider 5150 Psychiatric hold (determine whether they are already on one or if you need to summon the Police to place them under a 5150)
+Determine the necessary destination: ER (Emergency Room) or EPS (Emergency Psychiatric Services)? 
+
+DECISION TREE: SECONDARY ASSESSMENT (GYNECOLOGIC)
+Is there a possibility you could be pregnant? 
+Are you sexually active?
+Do you have any Fever/Nausea/Vomiting?
+When was your last menstrual period? Do you have any non-menstrual bleeding? 
+Do you have any pain with urination/defecation?  
+Do you have any abdominal pain?
+Are you taking any contraceptives?
+Only do a physical/visual exam of genitalia if absolutely necessary
+Attempt to have a female provider speak with the female patient
+Consider Sexual Assault/Rape
+ 
+DECISION TREE: SECONDARY ASSESSMENT (OBSTETRIC)
+Assess for signs of imminent birth 
+What is the expected due date?
+Is this the first pregnancy?
+When did labor pains start?
+Has there been a rush of water or "bloody show" present?
+Does the patient feel the urge to push or feel the need to have a bowel movement?
+ 
+DECISION TREE: SECONDARY ASSESSMENT (REASSESS VITALS)
+Pulse
+Respiration Rate
+Blood Pressure
+Any other relevant vitals established during secondary assessment 

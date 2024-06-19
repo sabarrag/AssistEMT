@@ -1,0 +1,110 @@
+{
+  "Scene Size-Up": {
+    "Safe Scene": {
+      "Initial Assessment": {
+        "Verbally Responsive": {
+          "A/O x 4": {
+            "Rapid Medical Assessment": {
+              "ABCs": {
+                "Check Pulse": {
+                  "Pulse Present": {
+                    "Check Airway": {
+                      "Open and Patent": {
+                        "BVM": {
+                          "Breathing adequately on their own": {
+                            "Yes": {
+                              "Sufficient Oxygen Perfusion": "Make Transport Decision"
+                            },
+                            "No": {
+                              "Insufficient Oxygen Perfusion": {
+                                "BVM": "Make Transport Decision",
+                                "MM": "Make Transport Decision",
+                                "NRB": "Make Transport Decision"
+                              }
+                            }
+                          }
+                        }
+                      },
+                      "Not Open and Patent": {
+                        "BVM": {
+                          "Breathing adequately on their own": {
+                            "Yes": {
+                              "Sufficient Oxygen Perfusion": "Make Transport Decision"
+                            },
+                            "No": {
+                              "Insufficient Oxygen Perfusion": {
+                                "BVM": "Make Transport Decision",
+                                "MM": "Make Transport Decision",
+                                "NRB": "Make Transport Decision"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "Pulseless": "CPR"
+                }
+              }
+            }
+          }
+        },
+        "Not Verbally Responsive": {
+          "AVPU": {
+            "Rapid Medical Assessment": {
+              "ABCs": {
+                "Check Pulse": {
+                  "Pulse Present": {
+                    "Check Airway": {
+                      "Open and Patent": {
+                        "BVM": {
+                          "Breathing adequately on their own": {
+                            "Yes": {
+                              "Sufficient Oxygen Perfusion": "Make Transport Decision"
+                            },
+                            "No": {
+                              "Insufficient Oxygen Perfusion": {
+                                "BVM": "Make Transport Decision",
+                                "MM": "Make Transport Decision",
+                                "NRB": "Make Transport Decision"
+                              }
+                            }
+                          }
+                        }
+                      },
+                      "Not Open and Patent": {
+                        "BVM": {
+                          "Breathing adequately on their own": {
+                            "Yes": {
+                              "Sufficient Oxygen Perfusion": "Make Transport Decision"
+                            },
+                            "No": {
+                              "Insufficient Oxygen Perfusion": {
+                                "BVM": "Make Transport Decision",
+                                "MM": "Make Transport Decision",
+                                "NRB": "Make Transport Decision"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "Pulseless": "CPR"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Unsafe Scene": "Request law enforcement to secure the scene"
+  },
+  "Assess Pain": {
+    "Pain": "OPQRST",
+    "No Pain": "SAMPLE History"
+  },
+  "Secondary Assessment": {
+    "Reassess Vitals (every 5 min) and Perform Necessary Interventions": "Perform Verbal Report to Arriving EMS Unit"
+  }
+}

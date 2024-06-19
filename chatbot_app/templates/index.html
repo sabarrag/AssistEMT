@@ -1,0 +1,133 @@
+<!-- templates/index.html -->
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EMT Chatbot</title>
+    <style>
+        body { 
+            font-family: Arial, sans-serif; 
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f0f0f0;
+        }
+        .chat-container { 
+            width: 80%; 
+            background-color: #fff; 
+            border-radius: 10px; 
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+        .chat-box { 
+            border-bottom: 1px solid #ccc; 
+            padding: 10px; 
+            height: 600px; 
+            overflow-y: scroll; 
+        }
+        .chat-input-container {
+            display: flex;
+            padding: 10px;
+        }
+        .chat-input { 
+            flex-grow: 1;
+            padding: 10px; 
+            border: 1px solid #ccc; 
+            border-radius: 5px;
+            margin-right: 10px;
+        }
+        .send-button {
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .message { 
+            margin: 10px 0; 
+            display: flex;
+            align-items: center;
+        }
+        .message.user { 
+            justify-content: flex-end; 
+        }
+        .message.bot { 
+            justify-content: flex-start; 
+        }
+        .bubble { 
+            padding: 10px 20px; 
+            border-radius: 20px; 
+            max-width: 60%;
+        }
+        .bubble.user { 
+            background-color: #007bff; 
+            color: #fff; 
+        }
+        .bubble.bot { 
+            background-color: #e0e0e0; 
+            color: #000; 
+        }
+    </style>
+</head>
+<body>
+    <div class="chat-container">
+        <div class="chat-box" id="chat-box">
+            <div class="message bot">
+                <div class="bubble bot">Hello! I am an EMT assistant, what can I help you with today?</div>
+            </div>
+        </div>
+        <div class="chat-input-container">
+            <input type="text" id="chat-input" class="chat-input" placeholder="Type your message here...">
+            <button class="send-button" id="send-button">Send</button>
+        </div>
+    </div>
+    <script>
+        const chatBox = document.getElementById('chat-box');
+        const chatInput = document.getElementById('chat-input');
+        const sendButton = document.getElementById('send-button');
+
+        function appendMessage(content, className) {
+            const messageElement = document.createElement('div');
+            messageElement.className = `message ${className}`;
+            const bubbleElement = document.createElement('div');
+            bubbleElement.className = `bubble ${className}`;
+            bubbleElement.textContent = content;
+            messageElement.appendChild(bubbleElement);
+            chatBox.appendChild(messageElement);
+            chatBox.scrollTop = chatBox.scrollHeight;
+        }
+
+        function sendMessage() {
+            const userMessage = chatInput.value;
+            if (userMessage.trim() !== '') {
+                appendMessage(userMessage, 'user');
+                fetch('/chat', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({ message: userMessage })
+                })
+                .then(response => response.json())
+                .then(data => {
+                    appendMessage(data.message, 'bot');
+                });
+                chatInput.value = '';
+            }
+        }
+
+        chatInput.addEventListener('keypress', function (e) {
+            if (e.key === 'Enter') {
+                sendMessage();
+            }
+        });
+
+        sendButton.addEventListener('click', sendMessage);
+    </script>
+</body>
+</html>
